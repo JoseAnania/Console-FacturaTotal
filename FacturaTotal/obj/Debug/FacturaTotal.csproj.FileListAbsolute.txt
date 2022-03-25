@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\bin\Debug\FacturaTotal.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\bin\Debug\FacturaTotal.exe
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\bin\Debug\FacturaTotal.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\obj\Debug\FacturaTotal.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\obj\Debug\FacturaTotal.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\obj\Debug\FacturaTotal.exe
+C:\Users\José\Desktop\Dev\C#\Consola\FacturaTotal\FacturaTotal\obj\Debug\FacturaTotal.pdb
